@@ -12,5 +12,5 @@ Api in Python
 3 - Instale as dependencias do projeto
   pip install -r requirememts.txt
   
-4 - Suba a API
+4 - Suba a API:
   python app.py
